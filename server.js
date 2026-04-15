@@ -115,7 +115,7 @@ async function saveSetting(key, value) {
 // ══════════════════════════════════════════════════════════════════
 async function callGemini(apiKey, prompt) {
   // Try gemini-2.5-flash first, fall back to 2.0-flash
-  const models = ["gemini-2.5-flash-preview-04-17", "gemini-2.0-flash"];
+  const models = ["gemini-2.5-flash", "gemini-2.0-flash"];
   let lastErr;
   for (const model of models) {
     try {
