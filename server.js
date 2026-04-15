@@ -760,6 +760,8 @@ Symptoms: "${problem}"
 
 Analyze the problem and tell them what is are the symptomps and how they get these disease or health issues and also tell which problem it is.
 
+tell in simple words and don't frighten the patient 
+
 STRICT RULES: ONLY home remedies and natural relief. NO medicines, drugs, or supplements of any kind.
 
 **🏠 Home Remedies for Temporary Relief:**
